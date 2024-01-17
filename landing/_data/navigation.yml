@@ -1,0 +1,13 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resources"
+    url: /resources/
+  - title: "People"
+    url: /people/
+  - title: "Partners"
+    url: /partners/
+  - title: "Home"
+    url: /
