@@ -68,8 +68,17 @@ feature_row:
 
 ### Welcome!
 
-ORTH is an initiative based at the University of Sussex,
+The Open Research Technologies Hub at the University of Sussex (ORTHUS) is a new
+initiative to working on two main goals:
 
+1-Train and foster a generation of open innovation experts who will learn open source/open science (OS) practices, principles of business, community building and project management to solve issues relevant to their communities, using context appropriate solutions. 
+
+2- Create a network of hubs that will promote open practices and open development in academic spaces around the globe. 
+
+
+Interested in knowing more?
+
+- [Drop us a line](mailto:a.maia-chagas@sussex.ac.uk) or visit us during office hours (Mon-Wed 12:00 to 14:00 UK time), either in person (we are located in the central library, 2nd floor) or via [zoom](https://universityofsussex.zoom.us/j/97672053299)
 
 --- 
 
