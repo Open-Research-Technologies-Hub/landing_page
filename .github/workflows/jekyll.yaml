@@ -73,3 +73,4 @@ jobs:
         port: ${{ secrets.PORT }}
         source: _site/*
         target: /root/test
+        strip_components: 1
