@@ -50,7 +50,6 @@ jobs:
         with:
           name: site
           path: _site
-      - run: ls -al _site
 
   # Deployment job
   deploy:
@@ -70,7 +69,7 @@ jobs:
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
+        key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.PORT }}
-        source: _site
-        target: /home/bryan/test
+        source: _site/*
+        target: /root/test
